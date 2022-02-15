@@ -1,6 +1,6 @@
 # Calendar App
 
-Calendar App is an application created with React Js that allows us to create different events in a calendar that we have at our disposal as well as edit and delete them, Redux has been used for status changes within it and to display the information of each one when loading the data from Calendar App || Backend.
+Calendar App is an application created with React Js that allows us to create different events in a calendar that we have at our disposal as well as edit and delete them, Redux has been used for status changes within it and to display the information of each one when loading the data from [Calendar App || Backend](https://github.com/6abrielMR/CalendarApp-backend).
 
 ## Installation
 
